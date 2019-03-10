@@ -1,0 +1,16 @@
+/* polygon page CSS */
+.svg1 polygon {
+    stroke: blue;
+    fill: red;
+    stroke-width: 2;
+}
+.svg2 polygon {
+    stroke: blue;
+    fill: red;
+    stroke-width: 2;
+}
+.svg3 polygon {
+    stroke: blue;
+    fill: none;
+    stroke-width: 3;
+}

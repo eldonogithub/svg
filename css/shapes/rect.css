@@ -1,0 +1,17 @@
+/* rect page CSS */
+rect {
+    fill: red;
+    stroke: blue;
+    stroke-width: 3;
+    rx: 30;
+    ry: 30;
+}
+
+rect.under {
+    
+}
+
+rect.over { 
+    fill: green;
+    opacity: 0.7;
+}

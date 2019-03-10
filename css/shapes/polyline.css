@@ -1,0 +1,16 @@
+/* Polyline page CSS */
+.svg1 polyline {
+    stroke: blue;
+    fill: red;
+    stroke-width: 2;
+}
+.svg2 polyline {
+    stroke: blue;
+    fill: red;
+    stroke-width: 2;
+}
+.svg3 polyline {
+    stroke: blue;
+    fill: none;
+    stroke-width: 3;
+}

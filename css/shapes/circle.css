@@ -1,0 +1,13 @@
+/* Circle page CSS */
+circle.under {
+    fill: red;
+    stroke: blue;
+    stroke-width: 2;
+}
+
+circle.over {
+    fill: blue;
+    stroke: black;
+    stroke-width: 2;
+    opacity: 0.8;
+}

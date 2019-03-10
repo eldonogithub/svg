@@ -1,0 +1,26 @@
+/* group page CSS */
+.svg1 rect {
+    stroke: red;
+    fill: blue;
+    stroke-width: 2;
+}
+.svg1 circle {
+    stroke: blue;
+    fill: red;
+    stroke-width: 2;
+}
+.svg2 g {
+    stroke: red;
+    fill: blue;
+    stroke-width: 2;
+}
+.svg3 g {
+    stroke: red;
+    fill: blue;
+    stroke-width: 2;
+}
+.svg4 g {
+    stroke: red;
+    fill: blue;
+    stroke-width: 2;
+}
