@@ -33,3 +33,14 @@ svg:nth-of-type(6) path {
 }
 svg:nth-of-type(7) path {
 }
+svg:nth-of-type(8) circle:nth-of-type(1) {
+  stroke: black;
+  stroke-width: 2;
+  fill: none;
+}
+/* all ellipses starting from (n+1 and above) to (n+2) and below */
+svg:nth-of-type(8) ellipse:nth-of-type(n):nth-of-type(-n+2) {
+  stroke:black; 
+  stroke-width:2; 
+  fill:none;
+}
